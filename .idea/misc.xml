@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project/app/src/main/res/drawable/back.xml" value="0.179" />
+        <entry key="..\:/project/app/src/main/res/layout/activity_join_game.xml" value="0.22" />
+        <entry key="..\:/project/app/src/main/res/layout/activity_logg.xml" value="0.240625" />
+        <entry key="..\:/project/app/src/main/res/layout/activity_login_p.xml" value="0.25" />
+        <entry key="..\:/project/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/project/app/src/main/res/layout/activity_mainmain.xml" value="0.20833333333333334" />
+        <entry key="..\:/project/app/src/main/res/layout/logo.xml" value="0.18" />
+        <entry key="..\:/projectexex/app/src/main/res/drawable-v24/buttoncc.xml" value="0.116" />
+        <entry key="..\:/projectexex/app/src/main/res/drawable/back.xml" value="0.2345" />
+        <entry key="..\:/projectexex/app/src/main/res/drawable/buttonc.xml" value="0.116" />
+        <entry key="..\:/projectexex/app/src/main/res/drawable/c0.xml" value="0.1095" />
+        <entry key="..\:/projectexex/app/src/main/res/drawable/c01.xml" value="0.1095" />
+        <entry key="..\:/projectexex/app/src/main/res/drawable/c02.xml" value="0.1095" />
+        <entry key="..\:/projectexex/app/src/main/res/drawable/c03.xml" value="0.1095" />
+        <entry key="..\:/projectexex/app/src/main/res/drawable/gamestarts.xml" value="0.1095" />
+        <entry key="..\:/projectexex/app/src/main/res/drawable/layout.xml" value="0.1685" />
+        <entry key="..\:/projectexex/app/src/main/res/drawable/set111.xml" value="0.1" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/activity_ex22_join_ok.xml" value="0.240625" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/activity_join_game.xml" value="0.23697916666666666" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/activity_logg.xml" value="0.19537037037037036" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/activity_login_p.xml" value="0.240625" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/activity_main3.xml" value="0.33" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/activity_select_c.xml" value="0.240625" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/activity_select_c1.xml" value="0.240625" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/activity_select_p.xml" value="0.23697916666666666" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/frame_1.xml" value="0.17760416666666667" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/frame_2.xml" value="0.17760416666666667" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/frame_3.xml" value="0.17760416666666667" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/frame_4.xml" value="0.17760416666666667" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/game_rule.xml" value="0.14" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/layout_ex17_viewpager2.xml" value="0.17760416666666667" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/layout_ex22_sqlite_main.xml" value="0.17760416666666667" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/lostg.xml" value="0.25" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/mapselect.xml" value="0.23613963039014374" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/mapselect1.xml" value="0.23333333333333334" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/op.xml" value="0.240625" />
+        <entry key="..\:/projectexex/app/src/main/res/layout/winner.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
